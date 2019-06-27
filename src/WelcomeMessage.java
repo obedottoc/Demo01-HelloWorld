@@ -1,6 +1,6 @@
 /****
  * welcome messsge
- * @author user2
+ * @author user2nikhil
  *
  */
 public class WelcomeMessage {
