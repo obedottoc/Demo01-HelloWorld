@@ -1,7 +1,7 @@
 /*
- this program is to print 50 times
- 5033
- @author aharish
+*this program is to print welcome message
+*5033
+*@author aharish
  */
 public class WelcomeMessage {
 
