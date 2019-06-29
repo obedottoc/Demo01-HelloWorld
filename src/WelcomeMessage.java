@@ -1,3 +1,8 @@
+/****
+ * This message is to print Welcome Message
+ * @author user2
+ *
+ */
 
 public class WelcomeMessage {
 
