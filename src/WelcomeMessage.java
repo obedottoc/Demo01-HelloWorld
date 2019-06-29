@@ -1,4 +1,8 @@
-
+/***
+ * This program is to print welcome message
+ * 5053
+ * @author santhosh
+ */
 public class WelcomeMessage {
 
 	public static void main(String[] args) {
